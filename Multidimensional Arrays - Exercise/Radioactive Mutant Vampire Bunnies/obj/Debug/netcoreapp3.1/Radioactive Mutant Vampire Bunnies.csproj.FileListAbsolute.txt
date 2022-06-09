@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\netcoreapp3.1\Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache

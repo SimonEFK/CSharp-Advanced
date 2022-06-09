@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.genruntimeconfig.cache

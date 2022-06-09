@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\bin\Debug\netcoreapp3.1\Basic Stack Operations.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Stack Operations\obj\Debug\netcoreapp3.1\Basic Stack Operations.genruntimeconfig.cache

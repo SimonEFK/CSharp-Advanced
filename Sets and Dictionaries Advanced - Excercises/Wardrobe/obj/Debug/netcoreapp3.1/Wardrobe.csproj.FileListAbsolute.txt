@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.genruntimeconfig.cache

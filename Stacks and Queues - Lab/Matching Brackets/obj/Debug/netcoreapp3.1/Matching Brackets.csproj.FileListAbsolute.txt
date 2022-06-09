@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.genruntimeconfig.cache

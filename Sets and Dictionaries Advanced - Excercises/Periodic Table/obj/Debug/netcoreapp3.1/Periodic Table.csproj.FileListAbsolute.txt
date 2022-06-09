@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.genruntimeconfig.cache

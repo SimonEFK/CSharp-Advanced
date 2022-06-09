@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.1\Snake Moves.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.1\Snake Moves.genruntimeconfig.cache

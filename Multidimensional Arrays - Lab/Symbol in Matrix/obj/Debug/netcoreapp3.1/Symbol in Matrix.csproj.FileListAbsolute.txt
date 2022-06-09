@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.genruntimeconfig.cache

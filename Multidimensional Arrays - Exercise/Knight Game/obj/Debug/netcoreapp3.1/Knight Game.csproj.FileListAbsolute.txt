@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\bin\Debug\netcoreapp3.1\Knight Game.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Knight Game\obj\Debug\netcoreapp3.1\Knight Game.genruntimeconfig.cache

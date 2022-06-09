@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\netcoreapp3.1\Count Same Values in Array.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\netcoreapp3.1\Count Same Values in Array.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\netcoreapp3.1\Count Same Values in Array.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\netcoreapp3.1\Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\netcoreapp3.1\Count Same Values in Array.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\bin\Debug\netcoreapp3.1\Count Same Values in Array.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\netcoreapp3.1\Count Same Values in Array.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\netcoreapp3.1\Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\netcoreapp3.1\Count Same Values in Array.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\netcoreapp3.1\Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\netcoreapp3.1\Count Same Values in Array.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\netcoreapp3.1\Count Same Values in Array.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Lab\Count Same Values in Array\obj\Debug\netcoreapp3.1\Count Same Values in Array.genruntimeconfig.cache

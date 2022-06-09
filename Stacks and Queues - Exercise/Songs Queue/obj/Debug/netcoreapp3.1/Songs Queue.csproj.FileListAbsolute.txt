@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\bin\Debug\netcoreapp3.1\Songs Queue.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Songs Queue\obj\Debug\netcoreapp3.1\Songs Queue.genruntimeconfig.cache

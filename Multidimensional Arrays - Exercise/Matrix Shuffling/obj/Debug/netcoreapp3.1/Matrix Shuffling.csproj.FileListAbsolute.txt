@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\bin\Debug\netcoreapp3.1\Matrix Shuffling.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\obj\Debug\netcoreapp3.1\Matrix Shuffling.genruntimeconfig.cache

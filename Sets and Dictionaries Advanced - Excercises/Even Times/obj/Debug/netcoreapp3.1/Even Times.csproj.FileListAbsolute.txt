@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\bin\Debug\netcoreapp3.1\Even Times.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\bin\Debug\netcoreapp3.1\Even Times.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\bin\Debug\netcoreapp3.1\Even Times.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\bin\Debug\netcoreapp3.1\Even Times.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\obj\Debug\netcoreapp3.1\Even Times.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\obj\Debug\netcoreapp3.1\Even Times.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\obj\Debug\netcoreapp3.1\Even Times.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\obj\Debug\netcoreapp3.1\Even Times.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Sets and Dictionaries Advanced - Excercises\Sets and Dictionaries Advanced - Excercises\Even Times\obj\Debug\netcoreapp3.1\Even Times.genruntimeconfig.cache

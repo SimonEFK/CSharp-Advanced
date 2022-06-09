@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.genruntimeconfig.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Exercise\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Lab\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.genruntimeconfig.cache

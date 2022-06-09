@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Stacks and Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.genruntimeconfig.cache

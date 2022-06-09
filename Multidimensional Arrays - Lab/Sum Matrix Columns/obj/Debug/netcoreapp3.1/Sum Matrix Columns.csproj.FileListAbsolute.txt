@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.exe
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.deps.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+C:\Users\simon\source\repos\CSharp-Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.genruntimeconfig.cache
