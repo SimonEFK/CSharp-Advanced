@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\bin\Debug\net5.0\Generating 0-1 Vectors.exe
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\bin\Debug\net5.0\Generating 0-1 Vectors.deps.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\bin\Debug\net5.0\Generating 0-1 Vectors.runtimeconfig.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\bin\Debug\net5.0\Generating 0-1 Vectors.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\bin\Debug\net5.0\Generating 0-1 Vectors.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\bin\Debug\net5.0\Generating 0-1 Vectors.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.AssemblyInfo.cs
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\refint\Generating 0-1 Vectors.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\Generating 0-1 Vectors.genruntimeconfig.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Generating 0-1 Vectors\obj\Debug\net5.0\ref\Generating 0-1 Vectors.dll

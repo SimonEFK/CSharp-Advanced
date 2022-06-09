@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Generating 0-1 Vectors/1.0.0": {
+        "runtime": {
+          "Generating 0-1 Vectors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generating 0-1 Vectors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\bin\Debug\net5.0\Recursive Factorial.exe
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\bin\Debug\net5.0\Recursive Factorial.deps.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\bin\Debug\net5.0\Recursive Factorial.runtimeconfig.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\bin\Debug\net5.0\Recursive Factorial.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\bin\Debug\net5.0\Recursive Factorial.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\bin\Debug\net5.0\Recursive Factorial.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.AssemblyInfo.cs
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\refint\Recursive Factorial.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\Recursive Factorial.genruntimeconfig.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Factorial\obj\Debug\net5.0\ref\Recursive Factorial.dll

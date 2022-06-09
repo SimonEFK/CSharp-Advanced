@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Recursion and Backtracking - Lab/1.0.0": {
+        "runtime": {
+          "Recursion and Backtracking - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recursion and Backtracking - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

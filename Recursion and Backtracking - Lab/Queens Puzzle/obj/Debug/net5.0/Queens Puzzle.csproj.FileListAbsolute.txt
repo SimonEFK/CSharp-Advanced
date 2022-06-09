@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\bin\Debug\net5.0\Queens Puzzle.exe
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\bin\Debug\net5.0\Queens Puzzle.deps.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\bin\Debug\net5.0\Queens Puzzle.runtimeconfig.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\bin\Debug\net5.0\Queens Puzzle.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\bin\Debug\net5.0\Queens Puzzle.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\bin\Debug\net5.0\Queens Puzzle.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.AssemblyInfo.cs
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\refint\Queens Puzzle.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\Queens Puzzle.genruntimeconfig.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Queens Puzzle\obj\Debug\net5.0\ref\Queens Puzzle.dll

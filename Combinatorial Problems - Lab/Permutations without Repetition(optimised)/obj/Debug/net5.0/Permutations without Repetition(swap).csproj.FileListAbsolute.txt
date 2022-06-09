@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\bin\Debug\net5.0\Permutations without Repetition(swap).exe
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\bin\Debug\net5.0\Permutations without Repetition(swap).deps.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\bin\Debug\net5.0\Permutations without Repetition(swap).runtimeconfig.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\bin\Debug\net5.0\Permutations without Repetition(swap).runtimeconfig.dev.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\bin\Debug\net5.0\Permutations without Repetition(swap).dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\bin\Debug\net5.0\Permutations without Repetition(swap).pdb
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).AssemblyInfo.cs
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\refint\Permutations without Repetition(swap).dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).pdb
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\Permutations without Repetition(swap).genruntimeconfig.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Permutations without Repetition(optimised)\obj\Debug\net5.0\ref\Permutations without Repetition(swap).dll

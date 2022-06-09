@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\bin\Debug\net5.0\Combinations with Repetition.exe
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\bin\Debug\net5.0\Combinations with Repetition.deps.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\bin\Debug\net5.0\Combinations with Repetition.runtimeconfig.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\bin\Debug\net5.0\Combinations with Repetition.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\bin\Debug\net5.0\Combinations with Repetition.dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\bin\Debug\net5.0\Combinations with Repetition.pdb
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.AssemblyInfo.cs
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\refint\Combinations with Repetition.dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.pdb
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\Combinations with Repetition.genruntimeconfig.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Combinations with Repetition\obj\Debug\net5.0\ref\Combinations with Repetition.dll

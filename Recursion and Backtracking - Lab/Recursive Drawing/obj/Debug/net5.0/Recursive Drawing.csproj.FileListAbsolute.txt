@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\bin\Debug\net5.0\Recursive Drawing.exe
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\bin\Debug\net5.0\Recursive Drawing.deps.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\bin\Debug\net5.0\Recursive Drawing.runtimeconfig.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\bin\Debug\net5.0\Recursive Drawing.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\bin\Debug\net5.0\Recursive Drawing.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\bin\Debug\net5.0\Recursive Drawing.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.AssemblyInfo.cs
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\refint\Recursive Drawing.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\Recursive Drawing.genruntimeconfig.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursive Drawing\obj\Debug\net5.0\ref\Recursive Drawing.dll

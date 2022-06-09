@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\bin\Debug\net5.0\Recursion and Backtracking - Lab.exe
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\bin\Debug\net5.0\Recursion and Backtracking - Lab.deps.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\bin\Debug\net5.0\Recursion and Backtracking - Lab.runtimeconfig.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\bin\Debug\net5.0\Recursion and Backtracking - Lab.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\bin\Debug\net5.0\Recursion and Backtracking - Lab.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\bin\Debug\net5.0\Recursion and Backtracking - Lab.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.AssemblyInfo.cs
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\refint\Recursion and Backtracking - Lab.dll
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.pdb
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\Recursion and Backtracking - Lab.genruntimeconfig.cache
+C:\Users\simon\source\repos\Recursion and Backtracking - Lab\Recursion and Backtracking - Lab\obj\Debug\net5.0\ref\Recursion and Backtracking - Lab.dll

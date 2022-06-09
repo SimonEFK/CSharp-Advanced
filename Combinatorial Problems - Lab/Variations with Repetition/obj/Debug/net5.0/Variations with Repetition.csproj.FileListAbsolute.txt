@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\bin\Debug\net5.0\Variations with Repetition.exe
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\bin\Debug\net5.0\Variations with Repetition.deps.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\bin\Debug\net5.0\Variations with Repetition.runtimeconfig.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\bin\Debug\net5.0\Variations with Repetition.runtimeconfig.dev.json
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\bin\Debug\net5.0\Variations with Repetition.dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\bin\Debug\net5.0\Variations with Repetition.pdb
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.AssemblyInfo.cs
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\refint\Variations with Repetition.dll
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.pdb
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\Variations with Repetition.genruntimeconfig.cache
+C:\Users\simon\source\repos\Combinatorial Problems - Lab\Variations with Repetition\obj\Debug\net5.0\ref\Variations with Repetition.dll
